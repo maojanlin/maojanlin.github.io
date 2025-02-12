@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Measuring, visualizing, and diagnosing reference bias with biastools"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: journal
+permalink: /publication/2024-04-19-biastool
+excerpt: 'Recent alignment methods aim to reduce reference bias, where reads with non-reference alleles fail to align correctly. However, threre is a lack of methods for analyzing reference bias. We present biastools, which measures and categorizes reference bias.'
+date: 2024-04-19
+venue: 'Genome Biology'
+paperurl: 'https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03240-8'
+citation: 'Lin, Mao-Jan, et al. "Measuring, visualizing, and diagnosing reference bias with biastools." Genome Biology 25.1 (2024): 101.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Recent alignment methods aim to reduce reference bias, where reads with non-reference alleles fail to align correctly. However, threre is a lack of methods for analyzing reference bias. We present biastools, which measures and categorizes reference bias.
