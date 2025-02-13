@@ -2,12 +2,12 @@
 title: "Measuring, visualizing, and diagnosing reference bias with biastools"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-04-19-biastool/
+permalink: /publication/biastool/
 excerpt: "Recent alignment methods aim to reduce reference bias, where reads with non-reference alleles fail to align correctly. However, there is a lack of methods for analyzing reference bias. We present biastools, which measures and categorizes reference bias."
 date: 2024-04-19
 venue: "Genome Biology"
 paperurl: "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03240-8"
-citation: "Lin, Mao-Jan, et al. 'Measuring, visualizing, and diagnosing reference bias with biastools.' Genome Biology 25.1 (2024): 101."
+citation: 'Lin, Mao-Jan, et al. "Measuring, visualizing, and diagnosing reference bias with biastools." Genome Biology 25.1 (2024): 101.'
 ---
 
 Recent alignment methods aim to reduce reference bias, where reads with non-reference alleles fail to align correctly. However, there's a lack of methods for systematically analyzing reference bias. Here we present biastools, which measures, categorizes, and diagnose instances of reference bias. 
