@@ -1,13 +1,26 @@
 ---
 permalink: /
-title: "About"
+title: "Mao-Jan Lin (林茂然) - About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD student in Computer Science at Johns Hopkins University, advised by [Ben Langmead](https://www.langmead-lab.org/). I develop computational tools for analyzing long- and short-read sequencing data. My research focuses on analyzing and mitigating reference bias in sequence alignment. I also work on profiling the genes that encode the adaptive immune receptor repertoire (AIRR).
+I am a PhD student in Computer Science at Johns Hopkins University, advised by [Dr. Ben Langmead](https://www.langmead-lab.org/). I develop computational tools for analyzing long- and short-read sequencing data for genomic research. My research focuses on analyzing and mitigating reference bias in sequence alignment. I also work on profiling the genes that encode the adaptive immune receptor repertoire (AIRR).
+
+Background
+======
+I obtained my B.S. in Electrical Engineering (2016) and M.S. in Electronics Engineering from National Taiwan University (2019).  In my master years I was advised by [Dr. Yi-Chang Lu](https://sites.google.com/view/ldps-giee-ntu/home), developing an ASIC design for sequence alignment.  From 2020 to 2021, I worked with [Dr. Pei-Lung Chen](https://scholar.google.com/citations?user=f6kvpB0AAAAJ&hl=zh-TW), developing computational tools to profile T-cell receptor (TR) genes and immunoglobulin genes (IG) with targeted sequencing data.
+
+For my PhD research, I work on tools to measure and reduce reference bias in sequence alignment.  I also work on profiling the IG gene loci in human samples with [Dr. Yana Safonova.](https://sites.google.com/view/yana-safonova/about)
+
+
+Contact me
+======
+You can reach out to me through my email: mlin77 [at] jhu [.] edu or [linkedIn](https://www.linkedin.com/in/mao-jan-lin-959734138/) 
+
 
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
