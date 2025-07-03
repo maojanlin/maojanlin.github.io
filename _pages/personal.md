@@ -20,7 +20,7 @@ I become a big chess fan after watching _The Queen's Gambit_, and now I play reg
 
 
 <div style="text-align: left;">
-  <img src="../files/chess.gif" alt="Animated GIF" width="320" />
+  <img src="../files/chess-2.gif" alt="Animated GIF" width="320" />
   <div style="font-size: 0.9em; margin-top: 5px;">
     A ridiculous game I played with my friend - one side had no knights, while the other had nothing but knights.
   </div>
