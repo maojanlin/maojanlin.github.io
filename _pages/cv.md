@@ -7,6 +7,14 @@ redirect_from:
   - /resume
 ---
 
+Last updated: Nov 07, 2025
+
+<iframe src="/files/resume.pdf" width="100%" height="800px" style="border: none;"></iframe>
+
+<iframe src="/files/curriculum_vitae.pdf" width="100%" height="800px" style="border: none;"></iframe>
+
+
+<!--
 {% include base_path %}
 
 Education
@@ -62,3 +70,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
