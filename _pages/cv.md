@@ -19,42 +19,45 @@ Last updated: Nov 07, 2025
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Johns Hopkins University, 08/2021 - present
+* M.S. in Electronics Engineering, National Taiwan University, 09/2016 - 06/2019
+* B.S. in Electrical Engineering, National Taiwan University, 09/2012 - 06/2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Roche, Summer Intern, Computational Biology Molecular Lab Appplications, 06/2024 - 08/2024
+  * Developed a structural variant calling pipeline to enhance recall and precision on a new sequencing platform.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apple, Product Design Intern, Input Device Team, 01/2018 - 07/2018
+  * Developed circuit solutions and prototype software to a new MacBook keyboard design.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Himax, Summer Intern, Video Image Processing Team, 07/2017 - 08/2017
+  * Developed compression algorithms for 3D depth sensing solutions.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, R, C++, MATLAB
+* Hardware Design: Verilog, FPGA, Arduino
+* Tools: git, Latex, Bash, Snakemake
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Teaching
+======
+* Teaching Assistant, Department of Computer Science, JHU 01/2025 – 05/2025
+    * Sketching and Indexing for Sequences (EN.601.646) by Dr. Ben Langmead
+* Teaching Assistant, Department of Computer Science, JHU 08/2022 – 12/2022
+    * Introduction to Computational Immunogenomics (EN.601.451) by Dr. Yana Safonova
+* Host of the Lab Programming Workshop, Lab of Dr. Pei-Lung Chen 09/2020 – 11/2020
+    * Python training for clinical data processing
+* Teaching Assistant, Department of Biomechanical Engineering, NTU 07/2020 – 08/2020
+    * Bioinformatics Algorithms (BME5938) by Dr. Chien-Yu Chen
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}

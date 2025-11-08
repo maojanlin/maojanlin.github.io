@@ -15,7 +15,7 @@ name                     : &name "Mao-Jan"
 description              : &description "personal description"
 url                      : https://maojanlin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "maojanlin/maojanlin.github.io" # the GitHub repository for your site
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=L_EVYB8AAAAJ&hl=zh-TW"
+  googlescholar    : "https://scholar.google.com/citations?user=L_EVYB8AAAAJ&hl=en"
   impactstory      : # URL
       #orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -81,6 +81,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
+  preprints:
+    title: 'Preprints'
   conferences:
     title: 'Conference Papers'
 
