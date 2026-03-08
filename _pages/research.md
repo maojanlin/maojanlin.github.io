@@ -20,7 +20,7 @@ Many alignment methods are developed to reduce reference bias. However, there is
 
 I also participated in the impute-first project. In which we used imputation to create a personalized reference genome before to sequence alignment, hence reduce reference bias, and achieve high variant calling accuracy in downstream analysis. I developed the workflow using [LevioSAM2](https://github.com/milkschen/leviosam2) to lift the alignment from personalized genome to a standard genome such as GRCh38 or T2T-CHM13. This workflow is an alternative to graph aligner when using impute-first framework. All the steps are in linear space and easy to operate.
 
-- [impute-first paper](https://genome.cshlp.org/content/early/2026/03/05/gr.280989.125)
+- [impute-first paper](https://genome.cshlp.org/content/early/2026/03/05/gr.280989.125) is published in Genome Research (2026).
 - [impute-first software](https://github.com/kvaddad1/impute-first) is available on GitHub.
 
 An example bias-by-allele-length plot from **biastools** with linear genome alignment, VG alignment with 1KGP graph genome, and impute-first workflow with LevioSAM2.
