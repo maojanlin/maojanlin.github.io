@@ -29,5 +29,5 @@ I become a big chess fan after watching _The Queen's Gambit_, and now I play reg
 
 
 ## BTBA Podcast (Moments in Biotech)
-Since season 3, I've been an editor of the [BTBA Podcast](https://www.btbatw.org/podcast/), a Mandarin-language podcast that interviews Taiwanese professionals working in biotech. I'll be co-producing Season 6.
+Since season 3, I've been editing and hosting several episodes of the [BTBA Podcast](https://www.btbatw.org/podcast/), a Mandarin-language podcast that interviews Taiwanese professionals working in biotech. I am co-producing the podcast with [Crystal Peng](https://sciprofiles.com/profile/ypeng) in Season 6.
 
