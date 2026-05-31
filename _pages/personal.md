@@ -20,11 +20,11 @@ I become a big chess fan after watching _The Queen's Gambit_, and now I play reg
 
 
 <div style="text-align: left;">
-  <img src="../files/chess-2.gif" alt="Animated GIF" width="320" />
-  <div style="font-size: 0.9em; margin-top: 5px;">
-    A ridiculous game I played with my friend - one side had no knights, while the other had nothing but knights.
-  </div>
+  <img src="../files/chess-3.gif" alt="Animated GIF" width="320" />
+  
 </div>
+
+I had the honor of playing against International Master [Eric Rosen](https://en.wikipedia.org/wiki/Eric_Rosen_(chess_player)) on one of his livestreams. Eric's commentary on the game can be viewed [here](https://www.youtube.com/live/qhEUW57jIDw?si=zY_1ZCbwWM_UIiYr&t=1983).
 
 
 
