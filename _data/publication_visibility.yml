@@ -1,0 +1,41 @@
+# Publication visibility on /publications/
+# true = show; false = hide from the list. Use unquoted true/false.
+# Detail pages and Google Scholar are unchanged.
+# New publications are shown unless explicitly set to false here.
+
+# "IGLoo enables comprehensive analysis and assembly of immunoglobulin heavy-chain loci in lymphoblastoid cell lines using PacBio high-fidelity reads"
+"/publication/IGLoo/": true
+
+# "Hardware Accelerator Design for Dynamic-Programming-Based Protein Sequence Alignment with Affine Gap Tracebacks"
+"/publication/affine_traceback/": true
+
+# "Banded Pair-HMM Algorithm for DNA Variant Calling and Its Hardware Accelerator Design"
+"/publication/banded-pair-hmm/": true
+
+# "Measuring, visualizing, and diagnosing reference bias with biastools"
+"/publication/biastool/": true
+
+# "gAIRR-wgs: high-resolution T cell receptor allele typing in biobank-scale whole-genome sequencing data"
+"/publication/gairr-wgs/": false
+
+# "Profiling genes encoding the adaptive immune receptor repertoire with gAIRR Suite"
+"/publication/gairrsuite/": true
+
+# "A Hybrid Flow for Multiple Sequence Alignment with a BLASTn Based Pairwise Alignment Processor"
+"/publication/hybrid-multiple-sequence-alignment/": false
+
+# "ImpuT2T: Pangenome-Based Patching for Human Genome Assemblies"
+"/publication/imput2t/": true
+
+# "Minimizing reference bias with an imputed personalized reference"
+"/publication/impute-first/": true
+
+# "Comprehensive Study of Keywords for Sequence-Based Automatic Annotation of Protein Functions"
+"/publication/protein-function-annotation/": false
+
+# "Unmasking human T cell receptor germline diversity: 335 novel alleles identified in 47 Pangenome reference individuals using the gAIRR Suite"
+"/publication/tcr-germline-diversity/": false
+
+# "Traceback Memory Reduction for Three-Sequence Alignment Algorithm with Affine Gap Models"
+"/publication/three-sequence-traceback/": false
+
