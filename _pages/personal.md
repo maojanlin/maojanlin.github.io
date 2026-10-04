@@ -16,18 +16,17 @@ I love juggling! I taught myself how to juggle during my master's years. I try t
 [Alex Sweeten](https://genomeinformatics.github.io/people/sweeten/) helped me film the video at Decker Quad on the Homewood campus.
 
 ## Chess
-I become a big chess fan after watching _The Queen's Gambit_, and now I play regularly at [Charmcity chess club](https://charmcitychess.com/).
+I become a big chess fan after watching _The Queen's Gambit_.  I had the honor of playing against International Master [Eric Rosen](https://en.wikipedia.org/wiki/Eric_Rosen_(chess_player)) on one of his livestreams. 
 
 
 <div style="text-align: left;">
   <img src="../files/chess-3.gif" alt="Animated GIF" width="320" />
   
 </div>
-
-I had the honor of playing against International Master [Eric Rosen](https://en.wikipedia.org/wiki/Eric_Rosen_(chess_player)) on one of his livestreams. Eric's commentary on the game can be viewed [here](https://www.youtube.com/live/qhEUW57jIDw?si=zY_1ZCbwWM_UIiYr&t=1983).
+Eric's commentary on the game can be viewed [here](https://www.youtube.com/live/qhEUW57jIDw?si=zY_1ZCbwWM_UIiYr&t=1983).
 
 
 
 ## BTBA Podcast (Moments in Biotech)
-Since season 3, I've been editing and hosting several episodes of the [BTBA Podcast](https://www.btbatw.org/podcast/), a Mandarin-language podcast that interviews Taiwanese professionals working in biotech. I am co-producing the podcast with [Crystal Peng](https://sciprofiles.com/profile/ypeng) in Season 6.
+Since season 3, I've been editing and hosting several episodes of the [BTBA Podcast (生技來一刻)](https://www.btbatw.org/podcast/), a Mandarin-language podcast featuring interviews with Taiwanese professionals in the biotech industry. In Seasons 6 and 7, I co-produce the podcast with [Crystal Peng](https://sciprofiles.com/profile/ypeng). Our podcast channel has been downloaded more than 200k times to date.
 
